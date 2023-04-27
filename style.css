@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.left-column {
+  width: 70%;
+}
+
+.right-column {
+  width: 30%;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.menu-link {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.page-title {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+.text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
+
+.section-title {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
